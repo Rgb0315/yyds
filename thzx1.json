@@ -22,7 +22,7 @@
     },
     {
       "key": "chengren",
-      "name": "🈵成人影视1",
+      "name": "🈵影视1",
       "type": 1,
       "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "老鸭",
-      "name": "🈵成人影视2",
+      "name": "🈵影视2",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "博天堂",
-      "name": "🈵成人影视3",
+      "name": "🈵影视3",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 0,
@@ -47,7 +47,7 @@
     },
     {
       "key": "探探",
-      "name": "🈵成人影视4",
+      "name": "🈵影视4",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "乐播",
-      "name": "🈵成人影视5",
+      "name": "🈵影视5",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "葡萄",
-      "name": "🈵成人影视6",
+      "name": "🈵影视6",
       "type": 1,
       "api": "https://caiji.putaozy.net/inc/apijson_vod.php",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_xBPQ_香蕉超清",
-      "name": "🏆蜜桃淫荡",
+      "name": "🏆蜜桃",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -187,7 +187,7 @@
     },
     {
       "key": "*一本道资源",
-      "name": "🈴一本道资源",
+      "name": "🈴一本到资源",
       "type": 0,
       "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
       "searchable": 1,
@@ -232,7 +232,7 @@
     },
     {
       "key": "屌丝",
-      "name": "🈴屌丝绿茶",
+      "name": "🈴掉思绿茶",
       "type": 0,
       "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
       "searchable": 1,
@@ -277,7 +277,7 @@
     },
     {
       "key": "*色色资源",
-      "name": "🈴色色资源",
+      "name": "🈴瑟瑟资源",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -294,8 +294,8 @@
       "filterable": 0
     },
     {
-      "key": "*淫水机资源",
-      "name": "🈴淫水机",
+      "key": "*水机资源",
+      "name": "🈴饮水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -321,8 +321,8 @@
       "filterable": 0
     },
     {
-      "key": "*AV集中淫",
-      "name": "🈴AV集中淫",
+      "key": "*AV集中",
+      "name": "🈴AV集中",
       "type": 0,
       "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
       "searchable": 1,
@@ -367,8 +367,8 @@
       "filterable": 0
     },
     {
-      "key": "*我要啪啪",
-      "name": "🈴我要啪啪",
+      "key": "*我要",
+      "name": "🈴我要怕怕",
       "type": 0,
       "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
       "searchable": 1,
@@ -376,8 +376,8 @@
       "filterable": 0
     },
     {
-      "key": "*大屌丝资源",
-      "name": "🈴大屌丝资源",
+      "key": "*大掉丝资源",
+      "name": "🈴大掉丝资源",
       "type": 0,
       "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
       "searchable": 1,
